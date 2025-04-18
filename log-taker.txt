@@ -3584,3 +3584,15 @@
 4/17/2025 | 8:09:55 PM | INFO | Trying to activate mining on-chain for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
 4/17/2025 | 8:09:56 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:09:56 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 12:41:21 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 12:41:21 AM | INFO | Start process for wallet 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+4/18/2025 | 12:41:22 AM | INFO | Trying To Login for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+4/18/2025 | 12:41:23 AM | INFO | Login successful... 
+4/18/2025 | 12:41:23 AM | INFO | Trying to check user info... 
+4/18/2025 | 12:41:23 AM | INFO | User ID: 28296139 | Twitter: @mkaivaa | Total Points: 1344000 
+4/18/2025 | 12:41:23 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 12:41:24 AM | INFO | Last mining time: 4/16/2025, 12:16:00 PM
+4/18/2025 | 12:41:24 AM | INFO | Trying to start Mining for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+4/18/2025 | 12:41:25 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/18/2025 | 12:41:25 AM | INFO | Trying to activate mining on-chain for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+4/18/2025 | 12:41:39 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x78e0fe2ca242353a59b3065fc1018e99a7a37c81a3102654217cbaec6d6eca4b 
