@@ -7184,3 +7184,12 @@
 6/19/2025 | 4:10:47 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 6/19/2025 | 4:10:47 PM | INFO | Trying to activate mining on-chain for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
 6/19/2025 | 4:10:58 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc65cac23e01322ca3c7572d716b5119bbb5fe0fd1111b12f0730a3480cf27d35 
+6/19/2025 | 8:10:27 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/19/2025 | 8:10:28 PM | INFO | Start process for wallet 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+6/19/2025 | 8:10:28 PM | INFO | Trying To Login for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+6/19/2025 | 8:10:29 PM | INFO | Login successful... 
+6/19/2025 | 8:10:29 PM | INFO | Trying to check user info... 
+6/19/2025 | 8:10:30 PM | INFO | User ID: 28296139 | Twitter: @mkaivaa | Total Points: 2688000 
+6/19/2025 | 8:10:30 PM | INFO | Trying to check user miner status... 
+6/19/2025 | 8:10:31 PM | INFO | Last mining time: 6/19/2025, 4:10:54 PM
+6/19/2025 | 8:10:31 PM | WARN | Mining already started, next mining time is: 6/20/2025, 4:10:54 PM
