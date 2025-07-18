@@ -8798,3 +8798,16 @@
 7/18/2025 | 4:29:36 AM | INFO | Trying to check user miner status... 
 7/18/2025 | 4:29:37 AM | INFO | Last mining time: 7/17/2025, 8:10:33 PM
 7/18/2025 | 4:29:37 AM | WARN | Mining already started, next mining time is: 7/18/2025, 8:10:33 PM
+7/18/2025 | 8:13:42 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/18/2025 | 8:13:42 AM | INFO | Start process for wallet 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+7/18/2025 | 8:13:43 AM | INFO | Trying To Login for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+7/18/2025 | 8:13:45 AM | INFO | Login successful... 
+7/18/2025 | 8:13:45 AM | INFO | Trying to check user info... 
+7/18/2025 | 8:13:46 AM | INFO | User ID: 28296139 | Twitter: @mkaivaa | Total Points: 3288000 
+7/18/2025 | 8:13:46 AM | INFO | Trying to check user miner status... 
+7/18/2025 | 8:13:52 AM | INFO | Last mining time: 7/16/2025, 4:12:00 PM
+7/18/2025 | 8:13:52 AM | INFO | Trying to start Mining for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+7/18/2025 | 8:13:59 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+7/18/2025 | 8:13:59 AM | INFO | Trying to activate mining on-chain for wallet: 0x617919A88c4131f4714b93375e10b5b806cA42b7 
+7/18/2025 | 8:17:38 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"Too many connections. Please try again later.","responseStatus":"599 CLIENT ESCALATED SERVER ERROR (429 Too Many Requests; exceeded maximum retry limit)"},"shortMessage":"exceeded maximum retry limit"}
+7/18/2025 | 8:17:38 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
